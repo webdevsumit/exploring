@@ -1,4 +1,8 @@
 hello i am commited
 
+<<<<<<< HEAD
 
 cc
+=======
+bb
+>>>>>>> bb
